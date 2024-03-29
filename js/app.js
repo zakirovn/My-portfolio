@@ -9,11 +9,11 @@ const projects = [
     githubLink: "https://github.com/zakirovn/Castaway",
     vercelLink: "https://castaway-topaz.vercel.app/",
   },
-  // {
-  //   title: "My Cart",
-  //   githubLink: "https://github.com/Nazarovfarhod/nazarovfarhod-user-card",
-  //   vercelLink: "nazarovfarhod-user-card.vercel.app",
-  // },
+  {
+    title: "Service",
+    githubLink: "https://github.com/zakirovn/Castaway",
+    vercelLink: "https://castaway-topaz.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
