@@ -14,6 +14,11 @@ const projects = [
     githubLink: "https://github.com/zakirovn/Castaway",
     vercelLink: "https://castaway-topaz.vercel.app/",
   },
+  {
+    title: "Perfume",
+    githubLink: "https://github.com/zakirovn/perfume",
+    vercelLink: "https://perfume-hazel.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
