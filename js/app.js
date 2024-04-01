@@ -24,6 +24,11 @@ const projects = [
     githubLink: "https://github.com/zakirovn/tip-calculator",
     vercelLink: "https://tip-calculator-lilac-nine.vercel.app/",
   },
+  {
+    title: "Background-site",
+    githubLink: "https://github.com/zakirovn/background-site",
+    vercelLink: "https://background-site.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
