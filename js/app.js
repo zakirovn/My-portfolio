@@ -34,6 +34,11 @@ const projects = [
     githubLink: "https://github.com/zakirovn/animation",
     vercelLink: "https://animation-wheat-two.vercel.app/",
   },
+  {
+    title: "Quick animation",
+    githubLink: "https://github.com/zakirovn/anime-quick",
+    vercelLink: "https://animation-fdk2.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
