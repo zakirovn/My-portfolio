@@ -39,6 +39,11 @@ const projects = [
     githubLink: "https://github.com/zakirovn/anime-quick",
     vercelLink: "https://animation-fdk2.vercel.app/",
   },
+  {
+    title: "Crowded",
+    githubLink: "https://github.com/zakirovn/crovedfounding.git",
+    vercelLink: "https://10-dars-lemon.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
