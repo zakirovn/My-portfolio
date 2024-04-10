@@ -44,6 +44,11 @@ const projects = [
     githubLink: "https://github.com/zakirovn/crovedfounding.git",
     vercelLink: "https://10-dars-lemon.vercel.app/",
   },
+  {
+    title: "Contacts",
+    githubLink: "https://github.com/zakirovn/Contacts",
+    vercelLink: "https://contacts-taupe.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
